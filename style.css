@@ -18,3 +18,12 @@ section{
 #gallery .row >*{
     padding: 0;
 }
+
+/* My Ketboard section */
+.keyboard-box{
+    background-color: #0c6efd;
+}
+
+section{
+    padding: 0;
+}
